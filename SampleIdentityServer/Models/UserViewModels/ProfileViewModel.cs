@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 
 namespace SampleIdentityServer.Models.UserViewModels
 {
+    //
     public class ProfileViewModel
     {
         public string Id { get; set; }
